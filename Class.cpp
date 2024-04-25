@@ -68,6 +68,8 @@ void Caine::latra() const
 	std::cout << "Ham, ham, ham!" << std::endl;
 }
 
+//-----------------Implementari pentru clasa Pisica-----------------
+
 Pisica::Pisica(std::string_view nume, unsigned varsta, std::string_view rasa, bool dispozitie)
 	: Animal(nume, varsta), rasa(rasa), esteFericita(dispozitie)
 {
