@@ -2,6 +2,11 @@
 
 TEMA IERARHIA ANIMALELOR: 
 
+Fisierul Class.h contine clasele Animal, Caine si Pisca, ultimele doua mostenind public din clasa Animal.
+Fisierul Class.cpp contine implementarile pentru clasele din fisierul Class.h.
+In fisierul Homework21.cpp este implementat un mic program care foloseste clasele declarate in fisierul Class.h.
+
+//Conditia
 Scop: Implementează o clasă de bază Animal 
 și clase derivate pentru diferite tipuri de animale, cum ar fi Caine și Pisica.
 
